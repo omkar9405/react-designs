@@ -1,6 +1,6 @@
 {
-  "homepage":"http://github.com/omkar9405/react-designs",
-  "name": "demodesigns",
+  "homepage":"http://omkar9405.github.io/react-designs",
+  "name": "react-designs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
