@@ -1,26 +1,37 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import "./components/DesignOne.css";
+import { Designone } from "./components/Designone";
+import "./components/Designtwo.css";
+import { Designtwo } from './components/Designtwo';
+import "./components/Designthree.css";
+import { Designthree } from './components/Designthree';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+  constructor(props)
+  {
+    super(props);
+  }
+  render(){
+  return  <div className="App">
+            <div className="row">
+              <div className="col-lg-3">
+              <Designone />
+              <labe>Design One</labe>
+              </div>
+              <div className="col-lg-3">
+              <Designtwo />
+              <labe>Design Two</labe>
+              </div>
+              <div className="col-lg-6">
+              <Designthree />
+              <labe>Design Three</labe>
+              </div>
+            </div>
+            
+          </div>
+    
+}
 }
 
 export default App;
