@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/omkar9405/react-designs/static/css/main.0ee0bc56.chunk.css",
+    "main.js": "/omkar9405/react-designs/static/js/main.89a8b54b.chunk.js",
+    "main.js.map": "/omkar9405/react-designs/static/js/main.89a8b54b.chunk.js.map",
+    "runtime-main.js": "/omkar9405/react-designs/static/js/runtime-main.0c201eef.js",
+    "runtime-main.js.map": "/omkar9405/react-designs/static/js/runtime-main.0c201eef.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/omkar9405/react-designs/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.a52756ca.chunk.js": "/omkar9405/react-designs/static/js/2.a52756ca.chunk.js",
+    "static/js/2.a52756ca.chunk.js.map": "/omkar9405/react-designs/static/js/2.a52756ca.chunk.js.map",
+    "index.html": "/omkar9405/react-designs/index.html",
+    "precache-manifest.1cc4312cd9da00a13f98facec6d2f706.js": "/omkar9405/react-designs/precache-manifest.1cc4312cd9da00a13f98facec6d2f706.js",
+    "service-worker.js": "/omkar9405/react-designs/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/omkar9405/react-designs/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.0ee0bc56.chunk.css.map": "/omkar9405/react-designs/static/css/main.0ee0bc56.chunk.css.map",
+    "static/js/2.a52756ca.chunk.js.LICENSE.txt": "/omkar9405/react-designs/static/js/2.a52756ca.chunk.js.LICENSE.txt",
+    "static/media/login.svg": "/omkar9405/react-designs/static/media/login.cba154e7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c201eef.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.a52756ca.chunk.js",
+    "static/css/main.0ee0bc56.chunk.css",
+    "static/js/main.89a8b54b.chunk.js"
+  ]
+}
