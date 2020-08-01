@@ -39,6 +39,9 @@ import './Designthree.css';
                 </ul>
             </div>
         </nav>
+        <div className="content">
+            <img src="loginImg" alt="image"/>
+        </div>
     </div>
       
     )
