@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c36696b868c91a86559ea0e8bf0ecd43",
+    "revision": "9df7ec8f0545ed13a9c1594abae4a8cb",
     "url": "/omkar9405/react-designs/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/omkar9405/react-designs/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "9725aa35c0cb642e6a8d",
+    "revision": "a26d3f14dfa9f3da8349",
     "url": "/omkar9405/react-designs/static/css/main.0ee0bc56.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/omkar9405/react-designs/static/js/2.a52756ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9725aa35c0cb642e6a8d",
-    "url": "/omkar9405/react-designs/static/js/main.89a8b54b.chunk.js"
+    "revision": "a26d3f14dfa9f3da8349",
+    "url": "/omkar9405/react-designs/static/js/main.6eab97b7.chunk.js"
   },
   {
     "revision": "4dba41e76224ca883b34",
