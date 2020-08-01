@@ -40,7 +40,7 @@ import './Designthree.css';
             </div>
         </nav>
         <div className="content">
-            <img src="loginImg" alt="image"/>
+            <img src={loginImg} alt="image"/>
         </div>
     </div>
       
