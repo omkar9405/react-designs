@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+URL: https://omkar9405.github.io/react-designs/
+
 ## Available Scripts
 
 In the project directory, you can run:
